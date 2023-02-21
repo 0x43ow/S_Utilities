@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFvj0SqjCNH5GR0JbfhL+CuN6dHMCGooF4BWUba8a2RlwCkRtejtI4XGvZb8BtI6BmdTY0vF3fF0ALS2FcBeGg==",
+  "success": true,
+  "projectFilePath": "D:\\stuff\\Util\\Utilities.v2\\Utilities.v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.3\\microsoft.toolkit.uwp.notifications.7.1.3.nupkg.sha512",
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.windowsapicodepack-core\\1.1.0\\microsoft.windowsapicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yasin\\.nuget\\packages\\microsoft.windowsapicodepack-shell\\1.1.0\\microsoft.windowsapicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yasin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAPICodePack-Core 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAPICodePack-Core",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAPICodePack-Shell 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAPICodePack-Shell",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
