@@ -11,6 +11,7 @@ from sys import argv
 from os import path, chdir
 import pyperclip
 
+#edited version of https://github.com/tanersb/TwitchRecover
 
 domains = [
 "https://vod-secure.twitch.tv",
